@@ -1,9 +1,5 @@
 # 👋 Hellooooooo! Costantino here... 😃 
 
-<div align="center"> 
-  <p>🛸 Visitor's count👽</p>
-  <img src="https://komarev.com/ghpvc/?username=constantineshovel&color=blueviolet&style=flat-square" alt="Visitor's Count" />
-</div>
 
 Geoscientist (PhD) working on GIS, remote sensing, and spatial modeling.
 
@@ -47,3 +43,8 @@ I use data and code to help communities face climate change, especially post-fir
 ## 📫 Contact
 - [![Proton](https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:costantino.pala.geo@proton.me) costantino.pala.geo@proton.me
 - [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3968--0395-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3968-0395)
+
+## 👽Visitor's count🛸
+<div align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=constantineshovel&color=blueviolet&style=flat-square" alt="Visitor's Count" />
+</div>
