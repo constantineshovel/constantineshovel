@@ -38,8 +38,21 @@ I use data and code to help communities face climate change, especially post-fir
 ## 🐍 Contributions 
 ![snake gif](https://raw.githubusercontent.com/constantineshovel/constantineshovel/output/github-contribution-grid-snake.svg)
 
-## 📚 Recent Publications
----
+
+##📄 Journal Articles
+Stratigraphy and volcano-structural evolution of the Montiferru Volcanic Complex, Sardinia (2026) | Journal of Maps 
+A Multi-Temporal Sentinel-2 and Machine Learning Approach for Precision Burned Area Mapping (2026) | Remote Sensing 
+Sediment generation through thermal spalling during the 2021 Montiferru-Planargia wildfire (2025) | Scientific Reports 
+
+##💻 Software & Data
+INUE v1.1 - INteractive and Userfriendly Emergency tool for burnt areas (2025) | Zenodo 
+RAW DATA - The Montiferru-Planargia 2021 wildfire: quantifying thermal spalling (2025) | Zenodo
+
+##🎓 Thesis & Conference
+Assessing Post-Fire Rock Weathering and Slope Instabilities in Fire-Prone Landscapes (2026) | EGU General Assembly 
+Investigation of Surface Instability Processes in Burned Areas through remote sensing and field surveys (2025) | PhD Dissertation
+Vegetation Recovery and Sediment Connectivity in burnt catchments: 2021 Montiferru Case (2025) | EGU General Assembly
+Unraveling 20 My of history of a volcanic complex: The Montiferru area (Italy) (2022) | EGU General Assembly 
 
 ## 📫 Contact
 - **Email:** costantino.pala.geo@proton.me
