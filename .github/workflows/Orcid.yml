@@ -1,62 +1,46 @@
 name: Update ORCID Publications
-
 on:
   schedule:
     - cron: "0 0 * * 1"
   workflow_dispatch:
-
 jobs:
   update-orcid:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
       - name: Fetch and Update
         shell: python
         run: |
           import urllib.request, json, os
-
           ORCID_ID = "0009-0001-3968-0395"
           URL = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
-          START_TAG, END_TAG = "", ""
-
+          START, END = "", ""
           try:
               req = urllib.request.Request(URL, headers={"Accept": "application/json"})
               with urllib.request.urlopen(req) as res:
                   data = json.loads(res.read().decode())
-              
-              works = data.get('group', [])
-              if not works:
-                  print("Nessuna pubblicazione trovata su ORCID.")
-                  content = "Nessuna pubblicazione trovata."
-              else:
-                  lines = []
-                  for g in works[:5]:
-                      summary = g['work-summary'][0]
-                      title = summary['title']['title']['value']
-                      year = summary.get('publication-date', {}).get('year', {}).get('value', 'N/A')
-                      lines.append(f"- **{title}** ({year})")
-                  content = "\n" + "\n".join(lines) + "\n"
-
+              lines = []
+              for g in data.get('group', [])[:5]:
+                  s = g['work-summary'][0]
+                  t = s['title']['title']['value']
+                  y = s.get('publication-date', {}).get('year', {}).get('value', 'N/A')
+                  lines.append(f"- **{t}** ({y})")
+              content = "\n" + "\n".join(lines) + "\n"
               with open("README.md", "r", encoding="utf-8") as f:
                   readme = f.read()
-
-              if START_TAG in readme and END_TAG in readme:
-                  parts = readme.split(START_TAG)
-                  after = parts[1].split(END_TAG)[1]
-                  with open("README.md", "w", encoding="utf-8") as f:
-                      f.write(parts[0] + START_TAG + content + END_TAG + after)
-                  print("✅ Aggiornamento completato.")
-              else:
-                  print("❌ Errore: Tag mancanti nel README.md!")
-                  exit(1)
+              # Se i tag mancano, li aggiunge sotto il titolo
+              if START not in readme:
+                  readme = readme.replace("## 📚 Recent Publications", f"## 📚 Recent Publications\n{START}\n{END}")
+              
+              parts = readme.split(START)
+              after = parts[1].split(END)[1]
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(parts[0] + START + content + END + after)
           except Exception as e:
-              print(f"💥 Errore: {e}")
+              print(f"Errore: {e}")
               exit(1)
-
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
