@@ -37,7 +37,6 @@ src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inksc
   <a href="https://doi.org/10.1080/17445647.2026.2632982">
     <img src="montiferrumap.png" width="60%" alt="Montiferru Volcanic Complex Map" />
     <br/>
-    <em>Visualizing 20 My of volcanic history: Stratigraphy and evolution of the Montiferru Complex (Sardinia). Published in Journal of Maps, 2026.</em>
   </a>
 </div>
 
