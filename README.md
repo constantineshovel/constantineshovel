@@ -45,7 +45,7 @@ src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inksc
 
 
 ## 📌 Focus
-I use data and code to help communities face climate change, especially post-fire risk ✨ 
+I use data and code to help communities face climate change, especially post-fire risk 🔥⛈️
 
 ## 🐍 Contributions 
 ![snake gif](https://raw.githubusercontent.com/constantineshovel/constantineshovel/output/github-contribution-grid-snake.svg)
