@@ -8,58 +8,59 @@ on:
 jobs:
   update-orcid:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
-      - uses: actions/checkout@v3
-      - name: Fetch and Update README
+      - uses: actions/checkout@v4
+      - name: Fetch and Update
         shell: python
         run: |
-          import urllib.request, json
-          
+          import urllib.request, json, os
+
           ORCID_ID = "0009-0001-3968-0395"
           URL = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
-          START_TAG = ""
-          END_TAG = ""
-          
+          START_TAG, END_TAG = "", ""
+
           try:
-              # Fetch dati da ORCID
               req = urllib.request.Request(URL, headers={"Accept": "application/json"})
-              with urllib.request.urlopen(req) as response:
-                  data = json.loads(response.read().decode())
+              with urllib.request.urlopen(req) as res:
+                  data = json.loads(res.read().decode())
               
-              lines = []
-              for group in data.get('group', [])[:5]:
-                  summary = group.get('work-summary', [{}])[0]
-                  title = summary.get('title', {}).get('title', {}).get('value', 'Title N/A')
-                  pub_date = summary.get('publication-date')
-                  year = pub_date.get('year', {}).get('value', 'N/A') if pub_date else 'N/A'
-                  lines.append(f"- **{title}** ({year})")
-              
-              new_content = "\n" + "\n".join(lines) + "\n"
-              
-              # Leggi il README attuale
+              works = data.get('group', [])
+              if not works:
+                  print("Nessuna pubblicazione trovata su ORCID.")
+                  content = "Nessuna pubblicazione trovata."
+              else:
+                  lines = []
+                  for g in works[:5]:
+                      summary = g['work-summary'][0]
+                      title = summary['title']['title']['value']
+                      year = summary.get('publication-date', {}).get('year', {}).get('value', 'N/A')
+                      lines.append(f"- **{title}** ({year})")
+                  content = "\n" + "\n".join(lines) + "\n"
+
               with open("README.md", "r", encoding="utf-8") as f:
                   readme = f.read()
-              
-              # Ricomponi il file in modo sicuro
+
               if START_TAG in readme and END_TAG in readme:
-                  before = readme.split(START_TAG)[0]
-                  after = readme.split(END_TAG)[1]
-                  final_readme = before + START_TAG + new_content + END_TAG + after
-                  
+                  parts = readme.split(START_TAG)
+                  after = parts[1].split(END_TAG)[1]
                   with open("README.md", "w", encoding="utf-8") as f:
-                      f.write(final_readme)
+                      f.write(parts[0] + START_TAG + content + END_TAG + after)
+                  print("✅ Aggiornamento completato.")
               else:
-                  print("Tag non trovati nel README!")
+                  print("❌ Errore: Tag mancanti nel README.md!")
                   exit(1)
-                  
           except Exception as e:
-              print(f"Errore: {e}")
+              print(f"💥 Errore: {e}")
               exit(1)
 
-      - name: Commit and Push
+      - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update ORCID publications" || exit 0
+          git commit -m "Update publications" || exit 0
           git push
