@@ -2,55 +2,58 @@ name: Update ORCID Publications
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # Ogni lunedì alle 00:00
-  workflow_dispatch: # Permette l'avvio manuale immediato
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
 
 jobs:
   update-orcid:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
       - name: Fetch and Update README
         shell: python
         run: |
-          import urllib.request, json, re
+          import urllib.request, json
           
           ORCID_ID = "0009-0001-3968-0395"
           URL = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
+          START_TAG = ""
+          END_TAG = ""
           
           try:
+              # Fetch dati da ORCID
               req = urllib.request.Request(URL, headers={"Accept": "application/json"})
               with urllib.request.urlopen(req) as response:
                   data = json.loads(response.read().decode())
               
               lines = []
-              # Prende le ultime 5 pubblicazioni
               for group in data.get('group', [])[:5]:
                   summary = group.get('work-summary', [{}])[0]
-                  title = summary.get('title', {}).get('title', {}).get('value', 'Titolo non disponibile')
+                  title = summary.get('title', {}).get('title', {}).get('value', 'Title N/A')
                   pub_date = summary.get('publication-date')
                   year = pub_date.get('year', {}).get('value', 'N/A') if pub_date else 'N/A'
                   lines.append(f"- **{title}** ({year})")
               
-              content = "\n".join(lines) if lines else "Nessuna pubblicazione trovata."
+              new_content = "\n" + "\n".join(lines) + "\n"
               
+              # Leggi il README attuale
               with open("README.md", "r", encoding="utf-8") as f:
                   readme = f.read()
               
-              # Sostituzione del contenuto tra i tag
-              new_readme = re.sub(
-                  r".*", 
-                  f"\n{content}\n", 
-                  readme, 
-                  flags=re.DOTALL
-              )
-              
-              with open("README.md", "w", encoding="utf-8") as f:
-                  f.write(new_readme)
+              # Ricomponi il file in modo sicuro
+              if START_TAG in readme and END_TAG in readme:
+                  before = readme.split(START_TAG)[0]
+                  after = readme.split(END_TAG)[1]
+                  final_readme = before + START_TAG + new_content + END_TAG + after
+                  
+                  with open("README.md", "w", encoding="utf-8") as f:
+                      f.write(final_readme)
+              else:
+                  print("Tag non trovati nel README!")
+                  exit(1)
                   
           except Exception as e:
-              print(f"Errore durante l'aggiornamento: {e}")
+              print(f"Errore: {e}")
               exit(1)
 
       - name: Commit and Push
@@ -60,4 +63,3 @@ jobs:
           git add README.md
           git commit -m "Update ORCID publications" || exit 0
           git push
-          
