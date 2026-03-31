@@ -41,16 +41,9 @@ I use data and code to help communities face climate change, especially post-fir
 ## 📊 STATS CENTER
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=constantineshovel&show_icons=true&theme=transparent&count_private=true&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantineshovel&layout=compact&theme=transparent&count_private=true&title_color=79c0ff&text_color=c9d1d9" alt="Top Languages" />
-  
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constantineshovel&theme=transparent&stroke=79c0ff&ring=79c0ff&fire=79c0ff&currStreakNum=79c0ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constantineshovel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 
 
