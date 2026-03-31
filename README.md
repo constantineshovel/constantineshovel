@@ -38,6 +38,22 @@ I use data and code to help communities face climate change, especially post-fir
 ## 🐍 Contributions 
 ![snake gif](https://raw.githubusercontent.com/constantineshovel/constantineshovel/output/github-contribution-grid-snake.svg)
 
+## 📊 STATS CENTER
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=constantineshovel&show_icons=true&theme=transparent&count_private=true&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantineshovel&layout=compact&theme=transparent&count_private=true&title_color=79c0ff&text_color=c9d1d9" alt="Top Languages" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constantineshovel&theme=transparent&stroke=79c0ff&ring=79c0ff&fire=79c0ff&currStreakNum=79c0ff" alt="GitHub Streak" />
+</div>
+
+
+
 ## 📫 Contact
 - **Email:** costantino.pala.geo@proton.me
 - **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3968--0395-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3968-0395)
