@@ -1,7 +1,10 @@
-# 👋 Hellooooooo! Costantino here... 😃 
+<div align="center">
+  <h1>👋 Hellooooooo! Costantino here... 😃</h1>
+  <p align="center">
+    <strong>Geoscientist (PhD) | GIS Specialist | Winemaker | Astronomy Enthusiast</strong>
+  </p>
+</div>
 
-
-Geoscientist (PhD) working on GIS, remote sensing, and spatial modeling.
 
 ## 🔬 Current projects
 
