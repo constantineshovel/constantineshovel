@@ -44,9 +44,6 @@ I use data and code to help communities face climate change, especially post-fir
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=constantineshovel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
-
-
 ## 📫 Contact
-- **Email:** costantino.pala.geo@proton.me
+- [![Proton](https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:costantino.pala.geo@proton.me) costantino.pala.geo@proton.me
 - [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3968--0395-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3968-0395)
