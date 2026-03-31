@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hellooooooo! Costantino here... 😃</h1>
   <p align="center">
-    <strong>Geoscientist (PhD) | GIS Specialist | Winemaker | Astronomy Enthusiast</strong>
+    <strong>Geoscientist (PhD) | GIS Specialist | Winemaker | Astronomy Enthusiast | Cartographer </strong>
   </p>
 </div>
 
