@@ -35,7 +35,7 @@ src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inksc
 ## 🗺️ An example of what I can do with these tools... 
 <div align="center">
   <a href="https://doi.org/10.1080/17445647.2026.2632982">
-    <img src="montiferrumap.png" width="60%" alt="Montiferru Volcanic Complex Map" />
+    <img src="montiferrumap.png" width="100%" alt="Montiferru Volcanic Complex Map" />
     <br/>
     <em>Published in Journal of Maps, Vol 22, issue 1. click and read!</em>
   </a>
