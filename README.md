@@ -35,8 +35,6 @@ Geoscientist (PhD) working on GIS, remote sensing, and spatial modeling.
 ## 📌 Focus
 I use data and code to help communities face climate change, especially post-fire risk ✨ 
 
-## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/constantineshovel/constantineshovel/output/github-contribution-grid-snake.svg)
 
 ## 📚 Recent Publications
 ---
