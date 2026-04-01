@@ -22,7 +22,7 @@ I believe the best solutions emerge where different disciplines meet. I’m look
   <tr>
     <td>
       <a href="https://github.com/constantineshovel/SUBSTR8">
-        <img src="https://raw.githubusercontent.com/constantineshovel/SUBSTR8/main/SUBSTRAT8%20small.png" width="50" />
+        <img src="https://raw.githubusercontent.com/constantineshovel/SUBSTR8/main/substr8%20small.png" width="50" />
       </a>
     </td>
     <td><strong><a href="https://github.com/constantineshovel/SUBSTR8">SUBSTR8</a></strong> → modular framework for spatial analysis</td>
