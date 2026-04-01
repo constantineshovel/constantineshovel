@@ -14,7 +14,7 @@ I believe the best solutions emerge where different disciplines meet. I’m look
   <tr>
     <td>
       <a href="https://github.com/constantineshovel/inue">
-        <img src="https://raw.githubusercontent.com/constantineshovel/inue/main/inueabout.png" width="50" />
+        <img src="https://raw.githubusercontent.com/constantineshovel/inue/main/inuesmall.png" width="50" />
       </a>
     </td>
     <td><strong><a href="https://github.com/constantineshovel/inue">INUE</a></strong> → postfire erosion susceptibility mapping</td>
