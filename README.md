@@ -14,12 +14,12 @@ I believe the best solutions emerge where different disciplines meet. I’m look
 
   <a href="https://github.com/constantineshovel/inue" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
     <img src="https://raw.githubusercontent.com/constantineshovel/inue/main/inuesmall.png" width="50" />
-    <strong style="color: #000; margin-top: 8px; font-size: 1.1em;">INUE</strong>
+    <strong style="color: #000; margin-top: 8px; font-size: 3em;">INUE</strong>
   </a>
 
   <a href="https://github.com/constantineshovel/SUBSTR8" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
     <img src="https://raw.githubusercontent.com/constantineshovel/SUBSTR8/main/substr8small.png" width="50" />
-    <strong style="color: #000; margin-top: 8px; font-size: 1.1em;">SUBSTR8</strong>
+    <strong style="color: #000; margin-top: 8px; font-size: 3em;">SUBSTR8</strong>
   </a>
 
 </div>
