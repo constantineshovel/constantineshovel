@@ -31,13 +31,12 @@ I believe the best solutions emerge where different disciplines meet. I’m look
 
 ## 🧰 Tools & methods
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img
-src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white" /> <img src="https://img.shields.io/badge/QField-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/TauDEM-2196F3?style=for-the-badge&logo=generic&logoColor=white" /> <img src="https://img.shields.io/badge/CloudCompare-2196F3?style=for-the-badge&logo=cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Polycam-000000?style=for-the-badge&logo=polycam&logoColor=white" /> <img src="https://img.shields.io/badge/JMicroVision-4CAF50?style=for-the-badge&logo=microscope&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
 
 
 ---
 
-## 🗺️ An example of what I can do with these tools... (and a lot of field work 🥳🌋)
+## 🗺️ An example of what I can do with these tools... (and a lot of field work🌋)
 <div align="center">
   <a href="https://doi.org/10.1080/17445647.2026.2632982">
     <img src="montiferrumap.png" width="100%" alt="Montiferru Volcanic Complex Map" />
