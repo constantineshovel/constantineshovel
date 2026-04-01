@@ -10,28 +10,25 @@ I believe the best solutions emerge where different disciplines meet. I’m look
 
 ## 🔬 Current projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/constantineshovel/inue">
-        <img src="https://raw.githubusercontent.com/constantineshovel/inue/main/inuesmall.png" width="50" />
-      </a>
-    </td>
-    <td><strong><a href="https://github.com/constantineshovel/inue">INUE</a></strong> → postfire erosion susceptibility mapping</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/constantineshovel/SUBSTR8">
-        <img src="https://raw.githubusercontent.com/constantineshovel/SUBSTR8/main/substr8small.png" width="50" />
-      </a>
-    </td>
-    <td><strong><a href="https://github.com/constantineshovel/SUBSTR8">SUBSTR8</a></strong> → modular framework for spatial analysis</td>
-  </tr>
-</table>
+<div style="display: flex; gap: 24px; flex-wrap: wrap; font-family: 'Courier New', Courier, monospace;">
+
+  <a href="https://github.com/constantineshovel/inue" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
+    <img src="https://raw.githubusercontent.com/constantineshovel/inue/main/inuesmall.png" width="50" />
+    <strong style="color: #000; margin-top: 8px; font-size: 1.1em;">INUE</strong>
+    <span style="color: #555; text-align: center; font-size: 0.85em;">Postfire erosion susceptibility mapping</span>
+  </a>
+
+  <a href="https://github.com/constantineshovel/SUBSTR8" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
+    <img src="https://raw.githubusercontent.com/constantineshovel/SUBSTR8/main/substr8small.png" width="50" />
+    <strong style="color: #000; margin-top: 8px; font-size: 1.1em;">SUBSTR8</strong>
+    <span style="color: #555; text-align: center; font-size: 0.85em;">Modular framework for spatial analysis</span>
+  </a>
+
+</div>
 
 ## 🧰 Tools & methods
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white" /> <img src="https://img.shields.io/badge/QField-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/TauDEM-2196F3?style=for-the-badge&logo=generic&logoColor=white" /> <img src="https://img.shields.io/badge/CloudCompare-2196F3?style=for-the-badge&logo=cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Polycam-000000?style=for-the-badge&logo=polycam&logoColor=white" /> <img src="https://img.shields.io/badge/JMicroVision-4CAF50?style=for-the-badge&logo=microscope&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Bash-E53935?style=for-the-badge&logo=gnu-bash&logoColor=white" /><img src="https://img.shields.io/badge/QGIS-336633?style=for-the-badge&logo=qgis&logoColor=white" /><img src="https://img.shields.io/badge/ArcGIS-007ACC?style=for-the-badge&logo=arcgis&logoColor=white" /><img src="https://img.shields.io/badge/QField-589632?style=for-the-badge&logo=qgis&logoColor=white" /><img src="https://img.shields.io/badge/TauDEM-E53935?style=for-the-badge&logo=generic&logoColor=white" /><img src="https://img.shields.io/badge/CloudCompare-2196F3?style=for-the-badge&logo=cloud&logoColor=white" /><img src="https://img.shields.io/badge/Polycam-FFFFFF?style=for-the-badge&logo=polycam&logoColor=000000" /><img src="https://img.shields.io/badge/JMicroVision-FF9800?style=for-the-badge&logo=microscope&logoColor=white" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
 
 
 ---
