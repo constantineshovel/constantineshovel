@@ -6,7 +6,7 @@
 </div>
 
 ## 🤝 Let's Connect!
-I believe the best solutions emerge where different disciplines meet. I’m looking to connect with professionals in the Geo-Tech space to exchange insights on environmental modeling and spatial analysis. Whether it’s a technical challenge, a research collaboration, or a chat about astronomy and wine—reach out!
+I believe the best solutions emerge where different disciplines meet. I’m looking to connect with professionals in the Geo-Tech space to exchange insights on environmental modeling and spatial analysis. Whether it’s a technical challenge, a research collaboration, or a chat about astronomy and wine—reach out! Open to work! don't worry, i will not scratch all the desks in the office 😸
 
 ## 🔬 Current projects
 
