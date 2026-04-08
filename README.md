@@ -24,6 +24,11 @@ Open to work! Don't worry, i will not scratch all the desks in the office 😸
     <strong style="color: #000; margin-top: 8px; font-size: 10em;">SUBSTR8</strong>
   </a>
 
+   <a href="https://github.com/constantineshovel/randomscripts" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
+    <img src="https://raw.githubusercontent.com/constantineshovel/randomscripts/main/randomscripts.png" width="50" />
+    <strong style="color: #000; margin-top: 8px; font-size: 10em;">randomscripts 4 geosciences</strong>
+  </a>
+
 </div>
 
 ## 🧰 Tools & methods
