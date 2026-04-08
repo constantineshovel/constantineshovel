@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hellooo! I'm Costantino!!! 😃</h1>
   <p align="center">
-   <img src="https://img.shields.io/badge/Geospatial_Data_Scientist_(PhD)-005571?style=for-the-badge&logoColor=#008080" /> <img src="https://img.shields.io/badge/Geospatial_Developer-232F3E?style=for-the-badge&logoColor=#8B4513" /> <img src="https://img.shields.io/badge/Licensed_Geologist-8B4513?style=for-the-badge&logoColor=#273c75" /><img src="https://img.shields.io/badge/Winemaking-722F37?style=for-the-badge&logoColor=#89182C" /> <img src="https://img.shields.io/badge/Astronomy_Enthusiast-0B3D91?style=for-the-badge&logoColor=#003366" />
+   <img src="https://img.shields.io/badge/Geospatial_Data_Scientist_(PhD)-005571?style=for-the-badge&logoColor=#008080" /><img src="https://img.shields.io/badge/Geospatial_Developer-232F3E?style=for-the-badge&logoColor=#8B4513" /><img src="https://img.shields.io/badge/Licensed_Geologist-8B4513?style=for-the-badge&logoColor=#273c75" /><img src="https://img.shields.io/badge/Winemaking-722F37?style=for-the-badge&logoColor=#89182C" /><img src="https://img.shields.io/badge/Astronomy_Enthusiast-0B3D91?style=for-the-badge&logoColor=#003366" />
   </p>
 </div>
 
