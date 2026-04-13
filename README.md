@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hellooo! I'm Costantino!!! 😃</h1>
   <p align="center">
-   <img src="https://img.shields.io/badge/Geospatial_Data_Scientist_(PhD)-005571?style=for-the-badge&logoColor=#008080" /><img src="https://img.shields.io/badge/Geospatial_Developer-232F3E?style=for-the-badge&logoColor=#8B4513" />
+   <img src="https://img.shields.io/badge/Geospatial_Data_Scientist-005571?style=for-the-badge&logoColor=#008080" /><img src="https://img.shields.io/badge/Geospatial_Developer-232F3E?style=for-the-badge&logoColor=#8B4513" />
 </div>
 
 ## 🤝 Let's Connect!
