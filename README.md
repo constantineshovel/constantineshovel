@@ -77,9 +77,9 @@ I use data and code to help communities face climate change, especially post-fir
 - ## 🗺️ Global Footprint
 
 <div align="center">
-  <img src="map.png" width="80%"/>
+  <img src="visited_map.png" width="80%"/>
   <br/>
-  <em> 🔵 Countries where I lived | 🟢 Countries visited </em>
+  <em> 🟢 Countries where I lived | 🟠 Countries visited </em>
 </div>
 
 ---
