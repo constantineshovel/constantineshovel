@@ -74,6 +74,16 @@ I use data and code to help communities face climate change, especially post-fir
 - [![Proton](https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:costantino.pala.geo@proton.me) costantino.pala.geo@proton.me
 - [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3968--0395-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3968-0395)
 
+- ## 🗺️ Global Footprint
+
+<div align="center">
+  <img src="map.png" width="80%"/>
+  <br/>
+  <em> 🔵 Countries where I lived | 🟢 Countries visited </em>
+</div>
+
+---
+
 ## 👽Visitor's count🛸
 <div align="left"> 
   <img src="https://komarev.com/ghpvc/?username=constantineshovel&color=blueviolet&style=flat-square" alt="Visitor's Count" />
