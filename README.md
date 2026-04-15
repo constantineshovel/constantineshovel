@@ -1,8 +1,16 @@
 <div align="center">
   <h1>👋 Hello! I'm Costantino! 😃</h1>
   <p align="center">
-   <img src="https://img.shields.io/badge/Geospatial_Data_Scientist-005571?style=for-the-badge&logoColor=008080" /><img src="https://img.shields.io/badge/Geospatial_Developer-232F3E?style=for-the-badge&logoColor=8B4513" /> 
-    <img src= https://img.shields.io/badge/Curriculum_Vitae-Download!-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/constantineshovel/constantineshovel/blob/main/CV%20GIS%20Developer%20and%20analyst.pdf)
+    <img src="https://img.shields.io/badge/Geospatial_Data_Scientist-005571?style=for-the-badge&logoColor=008080" />
+    <img src="https://img.shields.io/badge/Geospatial_Developer-232F3E?style=for-the-badge&logoColor=8B4513" />
+</div>
+
+
+<div align="center">
+  <h3>Looking for a GIS Developer who knows the field as well as the code? 🌍💻</h3>
+  <a href="https://github.com/constantineshovel/constantineshovel/blob/main/CV%20GIS%20Developer%20and%20analyst.pdf">
+    <img src="https://img.shields.io/badge/Check_my_background-Click_Here-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Check my background" />
+  </a>
 </div>
 
 ## 🤝 Let's Connect!
