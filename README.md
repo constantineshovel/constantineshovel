@@ -61,11 +61,11 @@ I am open to work!
 ## 📌 Focus
 I use data and code to help communities face climate change, especially post-fire risk 🔥⛈️
 
-IMINT/GEOINT
+> IMINT/GEOINT
 
-EO automation
+> EO pipelines
 
-Cascading Geohazards
+> Cascading Geohazards
 
 ## 🐍 Contributions 
 ![snake gif](https://raw.githubusercontent.com/constantineshovel/constantineshovel/output/github-contribution-grid-snake.svg)
