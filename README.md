@@ -62,7 +62,9 @@ I am open to work!
 I use data and code to help communities face climate change, especially post-fire risk 🔥⛈️
 
 IMINT/GEOINT
+
 EO automation
+
 Cascading Geohazards
 
 ## 🐍 Contributions 
