@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>Looking for a GIS Developer who knows the field as well as the code? 🌍💻</h3>
-  <a href="https://github.com/constantineshovel/constantineshovel/blob/main/CV%20GSDGA.pdf">
+  <a href="https://github.com/constantineshovel/constantineshovel/blob/main/CV.pdf">
     <img src="https://img.shields.io/badge/Check_my_background-Click_Here-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Check my background" />
   </a>
 </div>
