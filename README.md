@@ -21,6 +21,20 @@ I am open to work!
 ## 🔬 Current projects
 
 <div style="display: flex; gap: 24px; flex-wrap: wrap; font-family: 'Courier New', Courier, monospace;">
+   <a href="https://github.com/constantineshovel/arké" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
+    <img src="https://raw.githubusercontent.com/constantineshovel/randomscripts/main/arké.png" width="50" />
+    <strong style="color: #000; margin-top: 8px; font-size: 10em;">arké</strong>
+  </a>
+
+<div style="display: flex; gap: 24px; flex-wrap: wrap; font-family: 'Courier New', Courier, monospace;">
+   <a href="https://github.com/constantineshovel/randomscripts" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
+    <img src="https://raw.githubusercontent.com/constantineshovel/randomscripts/main/randomscripts.png" width="50" />
+    <strong style="color: #000; margin-top: 8px; font-size: 10em;">randomscripts 4 geosciences</strong>
+  </a>
+</div>
+
+## 🪦 Closed projects
+<div style="display: flex; gap: 24px; flex-wrap: wrap; font-family: 'Courier New', Courier, monospace;">
 
   <a href="https://github.com/constantineshovel/inue" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
     <img src="https://raw.githubusercontent.com/constantineshovel/inue/main/inuesmall.png" width="50" />
@@ -30,11 +44,6 @@ I am open to work!
   <a href="https://github.com/constantineshovel/SUBSTR8" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
     <img src="https://raw.githubusercontent.com/constantineshovel/SUBSTR8/main/substr8small.png" width="50" />
     <strong style="color: #000; margin-top: 8px; font-size: 10em;">SUBSTR8</strong>
-  </a>
-
-   <a href="https://github.com/constantineshovel/randomscripts" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
-    <img src="https://raw.githubusercontent.com/constantineshovel/randomscripts/main/randomscripts.png" width="50" />
-    <strong style="color: #000; margin-top: 8px; font-size: 10em;">randomscripts 4 geosciences</strong>
   </a>
 
 </div>
