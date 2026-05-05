@@ -22,7 +22,7 @@ I am open to work!
 
 <div style="display: flex; gap: 24px; flex-wrap: wrap; font-family: 'Courier New', Courier, monospace;">
   
-   <a href="https://github.com/constantineshovel/arké" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
+   <a href="https://github.com/constantineshovel/arke" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
     <img src="https://raw.githubusercontent.com/constantineshovel/arke/main/arké.png" width="50" />
     <strong style="color: #000; margin-top: 8px; font-size: 10em;">arké</strong>
   </a>
