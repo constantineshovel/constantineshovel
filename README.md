@@ -2,21 +2,23 @@
   <h1>👋 Hello! I'm Costantino! 😃</h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Geospatial_Data_Scientist-005571?style=for-the-badge&logoColor=008080" />
-    <img src="https://img.shields.io/badge/Geospatial_Developer-232F3E?style=for-the-badge&logoColor=8B4513" />
+    <img src="https://img.shields.io/badge/Geospatial_Analyst_&_Developer-232F3E?style=for-the-badge&logoColor=8B4513" />
 </div>
 
 
 <div align="center">
-  <h3>Looking for a GIS Developer who knows the field as well as the code? 🌍💻</h3>
+  <h3>Looking for a GIS Analyst and Developer who knows the field as well as the code? 🌍💻</h3>
   <a href="https://github.com/constantineshovel/constantineshovel/blob/main/CV.pdf">
     <img src="https://img.shields.io/badge/Check_my_background-Click_Here-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Check my background" />
   </a>
 </div>
 
 ## 🤝 Let's Connect!
-I believe the best solutions emerge where different disciplines meet. I’m looking to connect with professionals in the Geo-Tech space to exchange insights on environmental modeling and spatial analysis. Whether it’s a technical challenge, a research collaboration, or a chat about astronomy and wine—reach out!
 
-I am open to work!
+Geologist, GIS analyst and GIS developer with several years of experience in geospatial analysis applied to geological and hydrological risk assessment. Skilled in remote sensing workflows, spatial data automation with Python, and cartographic visualization using QGIS and Inkscape.
+I help environmental consultancies, public agencies, and energy companies turn complex geodata into clear, actionable maps and reproducible analysis pipelines.
+Open to full-time opportunities, freelance projects, and collaborations — feel free to reach out.
+
 
 ## 🔬 Projects
 
