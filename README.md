@@ -11,6 +11,9 @@
   <a href="https://github.com/constantineshovel/constantineshovel/blob/main/CV.pdf">
     <img src="https://img.shields.io/badge/Check_my_background-Click_Here-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Check my background" />
   </a>
+  <a href="https://costantinopalagisanalyst.notion.site/Costantino-Pala-GIS-Analyst-PhD-345000477a1580db98e7c599b702e039">
+    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ## 🤝 Let's Connect!
@@ -18,6 +21,7 @@
 Geologist, GIS analyst and GIS developer with several years of experience in geospatial analysis applied to geological and hydrological risk assessment. Skilled in remote sensing workflows, spatial data automation with Python, and cartographic visualization using QGIS and Inkscape.
 I help environmental consultancies, public agencies, and energy companies turn complex geodata into clear, actionable maps and reproducible analysis pipelines.
 Open to full-time opportunities, freelance projects, and collaborations — feel free to reach out.
+
 
 
 ## 🔬 Projects
