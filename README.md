@@ -18,7 +18,7 @@ I believe the best solutions emerge where different disciplines meet. I’m look
 
 I am open to work!
 
-## 🔬 Current projects
+## 🔬 Projects
 
 <div style="display: flex; gap: 24px; flex-wrap: wrap; font-family: 'Courier New', Courier, monospace;">
   
@@ -34,7 +34,6 @@ I am open to work!
   
 </div>
 
-## 🪦 Closed projects
 <div style="display: flex; gap: 24px; flex-wrap: wrap; font-family: 'Courier New', Courier, monospace;">
 
   <a href="https://github.com/constantineshovel/inue" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
