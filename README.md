@@ -68,6 +68,11 @@ Open to full-time opportunities, remote, freelance projects, and collaborations 
     <br/>
     <em>Published in Journal of Maps, Vol 22, issue 1. click and read!</em>
   </a>
+
+
+   <a href="https://doi.org/10.1080/17445647.2026.2632982">
+    <img src="heromap.png" width="100%" />
+  </a>
 </div>
 
 ---
