@@ -62,15 +62,19 @@ Open to full-time opportunities, remote, freelance projects, and collaborations 
 ---
 
 ## 🗺️ An example of what I can do with these tools... (and a lot of field work🌋)
+
 <div align="center">
   <a href="https://doi.org/10.1080/17445647.2026.2632982">
     <img src="montiferrumap.png" width="100%" alt="Montiferru Volcanic Complex Map" />
-    <br/>
-    <em>Published in Journal of Maps, Vol 22, issue 1. click and read!</em>
   </a>
+  <br/>
+  <em>Published in Journal of Maps, Vol 22, issue 1. click and read!</em>
+</div>
 
+<br/><br/>
 
-   <a href="https://doi.org/10.1080/17445647.2026.2632982">
+<div align="center">
+  <a href="https://doi.org/10.1080/17445647.2026.2632982">
     <img src="heromap.png" width="100%" />
   </a>
 </div>
