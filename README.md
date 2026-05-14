@@ -74,7 +74,7 @@ Open to full-time opportunities, remote, freelance projects, and collaborations 
 <br/><br/>
 
 <div align="center">
-  <a href="https://doi.org/10.1080/17445647.2026.2632982">
+  <a href="https://www.nature.com/articles/s41598-025-15527-2">
     <img src="heromap.png" width="100%" />
   </a>
 </div>
