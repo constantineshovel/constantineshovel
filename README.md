@@ -30,7 +30,7 @@ Open to full-time opportunities, remote, freelance projects, and collaborations 
   
    <a href="https://github.com/constantineshovel/gisplore" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
     <img src="https://raw.githubusercontent.com/constantineshovel/arke/main/gisplore.png" width="50" />
-    <strong style="color: #000; margin-top: 8px; font-size: 10em;">arké</strong>
+    <strong style="color: #000; margin-top: 8px; font-size: 10em;">gisplore</strong>
   </a>
   
    <a href="https://github.com/constantineshovel/randomscripts" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; width: 150px;">
